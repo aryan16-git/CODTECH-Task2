@@ -41,3 +41,4 @@ This is a simple weather forecast application built using HTML, CSS, and JavaScr
 1. Clone this repository.
 2. Open `wheatherforecast.html` in your browser.
 3. Enter a city name in the input field and click the search button to see the weather information.
+![Screenshot 2024-10-15 011547](https://github.com/user-attachments/assets/93f7c02a-91c5-453a-9e43-f19e3c46924b)
